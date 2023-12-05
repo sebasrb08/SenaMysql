@@ -186,7 +186,7 @@ ON ruta.id_carrera = carrera.id
 WHERE carrera.nombre = "Electrónica"
 ````
 Resultado:
-
+````
 +------------------------------+------+-------------+
 | nombre                       | edad | nombre      |
 +------------------------------+------+-------------+
@@ -195,6 +195,7 @@ Resultado:
 | Jairo Augusto Castro Camargo | NULL | Electrónica |
 | Henry Soler Vega             | NULL | Electrónica |
 +------------------------------+------+-------------+
+````
 
 5 . Seleccionar Nombres de Aprendices junto al nombre de la ruta de
 aprendizaje que cancelaron.
