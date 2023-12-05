@@ -261,6 +261,19 @@ INNER JOIN ruta
 ON cr.id_ruta = ruta.id
 WHERE ruta.enfasis = "Sistemas de Información Empresariales"
 ````
+Resultado
+
+````
++------------------------+
+| nombre                 |
++------------------------+
+| Marinela Narvaez       |
+| Ricardo Vicente Jaimes |
+| Agustín Parra Granados |
+| Nelson Raúl Buitrago   |
+| Roy Hernando Llamas    |
++------------------------+
+````
 
 8 . Genere un listado de todos los aprendices que terminaron una Carrera
 mostrando el nombre del profesional, el nombre de la carrera y el
@@ -277,6 +290,18 @@ INNER JOIN matricula as ma
 ON ap.id_matricula = ma.id
 WHERE ma.estado_matricula = "Terminado"
 ````
+Resultado 
+````
++------------------------------+
+| nombre                       |
++------------------------------+
+| Gustavo Noriega Alzate       |
+| Pedro Nell Gómez Díaz        |
+| Jairo Augusto Castro Camargo |
+| Antonio Cañate Cortés        |
+| Daniel Simancas Junior       |
++------------------------------+
+````
 
 10 . Nombres de Instructores que no tienen curso asignado.
 
@@ -284,4 +309,15 @@ WHERE ma.estado_matricula = "Terminado"
 SELECT nombre
 FROM instructor
 WHERE id NOT IN (SELECT DISTINCT id_instructor FROM instructor_curso WHERE id_instructor IS NOT NULL);
+````
+
+Resultado
+````
++-----------------------+
+| nombre                |
++-----------------------+
+| Pedro Nell Santamaría |
+| Andrea González       |
+| Marisela Sevilla      |
++-----------------------+
 ````
