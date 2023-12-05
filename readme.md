@@ -5,6 +5,7 @@
 ![Uploading drawSQL-rutas-de-aprendizaje-export-2023-12-05.png…]()
 
 
+
 ## Creacion de base de  datos
 ````
 CREATE DATABASE sena;
