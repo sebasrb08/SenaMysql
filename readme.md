@@ -229,6 +229,24 @@ INNER JOIN curso
 ON ic.id_curso = curso.id
 WHERE ic.id_instructor IS NULL;
 ````
+Resultado
+
+````
++---------------------------------+
+| nombre                          |
++---------------------------------+
+| Buceo 1                         |
+| Buceo 2                         |
+| Riesgo Eléctrico                |
+| Métodos de Soldadura            |
+| Legislación Laboral en Colombia |
+| Ergonomía                       |
+| Higiene Postural en el Trabajo  |
+| Enfermedades Laborales          |
+| Motor de Cuatro Tiempos         |
++---------------------------------+
+````
+
 
 7 . Seleccionar Nombres de los instructores que dictan cursos en la ruta de
 aprendizaje “Sistemas de Información Empresariales”.
