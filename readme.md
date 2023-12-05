@@ -1,4 +1,9 @@
-# Proyecto Sena
+![image](https://github.com/sebasrb08/SenaMysql/assets/118924181/471af575-e446-4c98-871a-83aa0f9741d3)# Proyecto Sena
+
+## Modelo Entidad Relacion
+
+![image](https://github.com/sebasrb08/SenaMysql/assets/118924181/b3750d3c-7ad6-4ce1-bccd-44d22246a8e0)
+
 
 ## Modelo Relacional
 
