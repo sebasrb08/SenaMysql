@@ -1,4 +1,4 @@
-![image](https://github.com/sebasrb08/SenaMysql/assets/118924181/471af575-e446-4c98-871a-83aa0f9741d3)# Proyecto Sena
+# Proyecto Sena
 
 ## Modelo Entidad Relacion
 
