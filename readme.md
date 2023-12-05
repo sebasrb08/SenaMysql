@@ -2,7 +2,7 @@
 
 ## Modelo Relacional
 
-![Uploading drawSQL-rutas-de-aprendizaje-export-2023-12-05.png…]()
+![image](https://github.com/sebasrb08/SenaMysql/assets/118924181/684da8f2-190d-4793-91b5-48819e15923d)
 
 
 
