@@ -209,6 +209,16 @@ INNER JOIN matricula
 ON aprendiz.id_matricula = matricula.id
 WHERE matricula.estado_matricula = "Cancelado"
 ````
+Resultado
+
+````
++-------------------+-------------+
+| nombre            | enfasis     |
++-------------------+-------------+
+| Juan José Cardona | Videojuegos |
+| Henry Soler Vega  | Robótica    |
++-------------------+-------------+
+````
 
 6 . Seleccionar Nombre de los cursos que no tienen un instructor asignado.
 
