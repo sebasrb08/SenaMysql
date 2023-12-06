@@ -2,12 +2,13 @@
 
 ## Modelo Entidad Relacion
 
-![image](https://github.com/sebasrb08/SenaMysql/assets/118924181/b3750d3c-7ad6-4ce1-bccd-44d22246a8e0)
+![image](https://github.com/sebasrb08/SenaMysql/assets/118924181/5c74e90a-20bd-4aa6-8626-5d3cc526dc3c)
 
 
 ## Modelo Relacional
 
-![image](https://github.com/sebasrb08/SenaMysql/assets/118924181/684da8f2-190d-4793-91b5-48819e15923d)
+![image](https://github.com/sebasrb08/SenaMysql/assets/118924181/abf294b5-ff63-4a52-8bc3-cb570eb78325)
+
 
 
 
